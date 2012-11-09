@@ -1,0 +1,15 @@
+{
+	"path": "/Applications/Panda/extpkg/bin", // point this to the directory of your root / root.exe
+	"selector": "source.cpp, source.c, source.c++",
+	"working_dir": "${file_path}",
+	"cmd": ["root -l $file"],
+	"shell": true,
+
+	"variants": [
+		{
+			"cmd": ["root", "-l", "$file+"], // delivers a command palette only option to run root with compiling the macro before executing it (the + option) - but doesn't run, since clang++ can't be found. If you want to fix it: fix it.
+			"name": "ROOT: Compile (+)"
+
+		}
+	]
+}
