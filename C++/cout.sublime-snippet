@@ -3,6 +3,6 @@
 std::cout << ${1}${2: << std::endl};
 ]]></content>
 	<tabTrigger>cout</tabTrigger>
-	<scope>source.c++</scope>
+	<scope>source.c++, source.cuda-c++</scope>
 	<description>std::cout</description>
 </snippet>

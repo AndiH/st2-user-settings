@@ -17,7 +17,7 @@ We particle physicists love to use [CERN's ROOT](http://root.cern.ch/) framework
 
 You probably only want to use it for syntax / error / ROOT speciality checking since most of the stuff you do in ROOT is interactive to a certain degree; Sublime Text closes the built file after a successful build, so your canvas is immediately destroyed again.
 
-## CUDA Thrust Snippets – ``CUDA/Thrust``
+## CUDA Thrust Snippets – ``CUDA/Thrust`
 Snippets I use, which make the work with [Thrust](https://github.com/thrust/thrust) a bit faster.
 
 Requirements: [sublime-cuda-cpp by harrism](https://github.com/harrism/sublimetext-cuda-cpp), which gives you syntax highlighting for CUDA, a build system as well as some snippets (for plain CUDA). For this, it defines a new source code language ``cuda-c++``.
