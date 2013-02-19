@@ -1,26 +1,21 @@
 {
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
-	"theme": "Soda Light.sublime-theme",
-	"font_face": "Ubuntu Mono",
-	"font_options":
-	[
- 		"subpixel_antialias"
-	],
-	"font_size": 13,
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	// "rulers": [80]
 	"create_window_at_startup": true,
 	"drag_text": false,
-	"find_selected_text": true,
-	"show_tab_close_buttons": false,
-	"tab_size": 4,
 	"ensure_newline_at_eof_on_save": true,
-	// "trim_trailing_white_space_on_save": true,
+	"find_selected_text": true,
+	"font_face": "Ubuntu Mono",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"show_tab_close_buttons": false,
+	"tab_size": 4,
+	"theme": "Soda Light.sublime-theme",
+	"word_wrap": true
 }
