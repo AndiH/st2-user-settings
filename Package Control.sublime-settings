@@ -3,6 +3,8 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Autocomplete Javascript with Method Signature",
+		"CUDA C++",
 		"DocBlockr",
 		"Exec In Window",
 		"Gist",
