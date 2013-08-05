@@ -3,10 +3,14 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"CanISwitchToSublimeText3",
+		"CMake",
 		"DocBlockr",
 		"Exec In Window",
 		"Gist",
 		"jQuery Snippets pack",
+		"knockdown",
+		"LaTeXTools",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeLinter",
